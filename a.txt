@@ -2,4 +2,8 @@ file a - C1
 
 fixed
 
+<<<<<<< HEAD
 fixed lan 2 master
+=======
+fixed lan 2
+>>>>>>> branchC
