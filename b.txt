@@ -1,3 +1,5 @@
 file b
 
 fixed - C4
+
+fixed - stash
