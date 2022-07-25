@@ -1,5 +1,5 @@
 file b
 
-fixed - C4
+fixed
 
-fixed - stash
+fixed - C10
