@@ -1,6 +1,0 @@
-file a - C1
-
-fixed
-
-fixed lan 2 master
-fixed lan 2
