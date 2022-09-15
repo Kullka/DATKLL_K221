@@ -31,3 +31,33 @@
         - Deadline 00h00 ngày 15/09/2022
 
 
+15/9/2022: 2h
+    MỤC TIÊU: Đặc tả đề tài
+        - Đề tài: Điều khiển xe bằng cử động tay và truyền hình ảnh từ camera về app android
+            + Những việc đã làm được: Đặc tả đề tài đồ án
+        - Chức năng:
+            + Đèn chiếu sáng
+            + Còi báo động
+            + Tự động hoặc điều khiển bằng tay
+            + Hiển thị mức pin
+            + Lấy hình ảnh từ camera hiển thị lên app (tự làm app android)
+            + Điều chỉnh tốc độ xe
+            + Option:
+                * Quét map
+        - Yêu cầu đề tài:
+            + Input: 
+                * Cử chỉ tay
+                * Điện áp pin
+            + Output: 
+                * Tốc độ xe (>=100mA)
+                * Loa, led, chuyển động xe
+                * Hiển thị mức pin
+                * Còi báo động (mức pin yếu, ra khỏi phạm vi điều khiển) (option: Gửi cảnh báo về app) 
+        - Đối tượng chính của đề tài:
+            + Làm mạch điều khiển xe bằng STM32
+            + Điều khiển xe bằng cứ chỉ tay
+            + Lập trình STM32 điểu khiển xe
+            + Làm app hiển thị cam từ điện thoại, hiển thị mức pin, tốc độ xe, các chức năng bật còi, bật đèn
+
+    Nhiệm vụ ngày tiếp theo:
+        - Hoàn thiện proposal đồ án
