@@ -61,3 +61,23 @@
 
     Nhiệm vụ ngày tiếp theo:
         - Hoàn thiện proposal đồ án
+        
+   
+17/9/2022 Thời gian (9h-11h)
+    Mục tiêu: Hoàn thiện proposal, lên kế hoạch tổng quát, lên kế hoạch chi tiết cho tuần tới
+    Đã làm xong:
+        - Tìm ra các giải pháp kỹ thuật cho dự án
+        - Có phương pháp và kịch bản kiểm thử sản phẩm
+        - Dự trù các nguồn lực cần thiết cho dự án
+        - Lên kế hoạch tổng quát cho dự án
+        - Lên kế hoạch chi tiết cho các task tuần tới
+    Chưa làm được:
+        - Không có
+    Khó khăn, vấn đề gặp phải:
+        - Bản proposal cần được duyệt trước khi bắt đầu triển khai
+    Dự định tiếp theo:
+        - Hẹn anh Kha duyệt proposal
+        - Tìm hiểu các quy trình thực hiện các task chính trong dự án
+        - Viết báo cáo proposal
+    Kiến nghị đối với team:
+        - Không có:
