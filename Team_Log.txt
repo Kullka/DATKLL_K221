@@ -84,7 +84,7 @@
         
 -------
 
-Ngày 21/9/2022 (chiều)
+Ngày 21/9/2022 (14h30-17h)
 Dự định sẽ làm trong hôm nay:
     - Họp nhóm sửa proposal
     - Đánh giá tính khả thi, phù hợp của các chức năng trong dự án
