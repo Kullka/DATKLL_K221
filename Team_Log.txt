@@ -81,3 +81,27 @@
         - Viết báo cáo proposal
     Kiến nghị đối với team:
         - Không có:
+        
+-------
+
+Ngày 21/9/2022 (chiều)
+Dự định sẽ làm trong hôm nay:
+    - Họp nhóm sửa proposal
+    - Đánh giá tính khả thi, phù hợp của các chức năng trong dự án
+
+Đã làm xong:
+    - Bỏ chức năng điều khiển bằng cử chỉ tay
+    - Đánh giá được proposal chưa rõ ràng, có thiếu sót, có sai
+
+Chưa làm được:
+    - Chưa hoàn thành proposal
+
+Khó khăn, vấn đề đang gặp:
+    - Không có
+
+Dự định tiếp theo:
+    - Hoàn thành proposal
+
+Kiến nghị đối với team:
+    - Vương, Lợi viết lại proposal
+    - Lương làm slide thuyết trình proposal
